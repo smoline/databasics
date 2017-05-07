@@ -1,6 +1,6 @@
 ## Databasics
 
-Fork this repository into your own github profile.
+### To learn how to create SQL(postgresql) statements
 
 Before closing the homework assignment issue:
 
